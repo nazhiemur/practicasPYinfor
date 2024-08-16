@@ -3,9 +3,9 @@
 # Realizar un programa que inicialice una lista con 10 valores aleatorios (del 1 al 10) 
 # y posteriormente muestre en pantalla cada elemento de la lista junto con su cuadrado y su cubo.
 
-# lista_aleatoria = [1,2,3,4,5,6,7,8,9,10]
-# for i in lista_aleatoria:
-#     print("El elemento es:",i, "\n", "Su Cuadrado es:", i**2, "\n","Su Cubo:", i**3)
+lista_aleatoria = [1,2,3,4,5,6,7,8,9,10]
+for i in lista_aleatoria:
+    print("El elemento es:",i, "\n", "Su Cuadrado es:", i**2, "\n","Su Cubo:", i**3)
 
 
 # Ejercicio 2
